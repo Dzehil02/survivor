@@ -1,4 +1,14 @@
 :root {
+  /* background: linear-gradient(0deg, rgba(3,30,16,1) 0%, rgba(8,107,69,1) 100%) fixed; 
+  background-repeat: no-repeat; */
+  background: #141414;
+}
+
+p {
+  margin: 0;
+}
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -66,4 +76,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
